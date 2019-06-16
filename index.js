@@ -10,9 +10,9 @@ var knex = require('knex')({
 	client: 'mysql',
 	connection: {
 		host :'u0zbt18wwjva9e0v.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
-		user : 'vw421sj50amqr31f',
-		password : 'y5d9zm9berh5doqv',
-		database : 'oomq3ocw3fdlo356'
+		user : 'om3r87khmo6oatd4',
+		password : 'r79k0rvzqwjyvwml',
+		database : 'qvhui4h3kx15c6el'
 	}
 });
 
