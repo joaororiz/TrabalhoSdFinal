@@ -1,1 +1,1 @@
-web : node TrabalhoREST.js
+web:node TrabalhoREST.js
